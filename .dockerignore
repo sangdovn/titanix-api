@@ -1,15 +1,19 @@
-# Python
+# python
 __pycache__/
 pyproject.toml
 uv.lock
 .python-version
 .venv
 
-# Docker
+# docker
 Dockerfile
+docker-compose*.yml
 .dockerignore
 
-# Git
+# git
 README.md
 .git
 .gitignore
+
+# environment
+.env*

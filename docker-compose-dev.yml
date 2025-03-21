@@ -1,0 +1,6 @@
+services:
+  api:
+    container_name: ${CONTAINER_NAME}
+    image: ${IMAGE_NAME}
+    ports:
+      - 8001:8000
