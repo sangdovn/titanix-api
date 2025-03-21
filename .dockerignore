@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+pyproject.toml
+uv.lock
+.python-version
+.venv
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Git
+README.md
+.git
+.gitignore
